@@ -1,3 +1,3 @@
-Some bullet points
+## Some bullet points
 - first
 - second
